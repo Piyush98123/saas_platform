@@ -47,3 +47,5 @@ Write-Host "2. Run migrations: ./gradlew flywayMigrate" -ForegroundColor White
 Write-Host "3. Check health endpoint: http://localhost:8090/api/actuator/health" -ForegroundColor White
 
 Write-Host "`n✨ Setup complete! Happy coding!" -ForegroundColor Green
+
+

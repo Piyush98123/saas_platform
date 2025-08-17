@@ -237,3 +237,5 @@ $env:SPRING_PROFILES_ACTIVE="prod"
 - [ ] Set up monitoring
 
 Your backend is now ready to use Supabase PostgreSQL! 🚀
+
+

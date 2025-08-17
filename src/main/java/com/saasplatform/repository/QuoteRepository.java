@@ -25,3 +25,5 @@ public interface QuoteRepository extends JpaRepository<Quote, Long> {
 
 
 
+
+
