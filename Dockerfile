@@ -25,7 +25,7 @@ WORKDIR /app
 COPY --from=0 /app/build/libs/*.jar app.jar
 
 # Expose port
-EXPOSE 8080
+EXPOSE 8090
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
